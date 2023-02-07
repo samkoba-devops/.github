@@ -1,12 +1,9 @@
-## Hi there 👋
+Keymeta is a consulting and Information Technology services. We can deal with various problems and
+find the best solution for your business of Cloud Migration, static and dynamic WEB Applications, mobile applications for Android/iOS native or hybrid, and also Manage Services. We come together and join forces in Keymeta Networks.
 
-<!--
+Want to be part of the keymeta network?
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+join us to contribute and keep innovating.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
